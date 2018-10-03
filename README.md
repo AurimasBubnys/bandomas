@@ -1,0 +1,2 @@
+# bandomas
+testavimo sumetimais
